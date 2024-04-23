@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aurélien</h1>
-<h3 align="center">I'm a back-end/blockchain dev who loves digging to understand how things work. 
-  I mostly have experience building around the EVM ecosystem, whether it is on or off chain.
+<h3 align="center">I'm a back-end/blockchain dev who loves digging to understand how things work. I have experience building applications that are interacting with the blockchain, fetching & processing its data. I'm also super enthusiast about the EVM and how it works in its lower levels.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
