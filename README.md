@@ -12,4 +12,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=ts,nodejs,js,solidity,go" />
 <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,prisma,redis,linux,postgres,postman,mint,vscode" />
+
 </p>
